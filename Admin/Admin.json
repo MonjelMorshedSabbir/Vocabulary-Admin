@@ -1,7 +1,7 @@
 {
     "Admin":{
         "isAppActive":true,
-        "minVersion":2
+        "minVersion":1
     },
     "API":{
         "short1":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/shortWordMeanings1.json",
