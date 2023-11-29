@@ -4,13 +4,13 @@
         "minVersion":1
     },
     "API":{
-        "short1":"",
-        "short2":"",
-        "explained1":"",
-        "conversational1":"",
-        "conversational2":"",
-        "conversational3":"",
-        "conversational4":"",
-        "Social1":""
+        "short1":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/shortWordMeanings1.json",
+        "short2":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/shortWordMeanings2.json",
+        "explained1":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/explainedMeanings1.json",
+        "conversational1":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/conversational1.json",
+        "conversational2":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/conversational2.json",
+        "conversational3":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/conversational3.json",
+        "conversational4":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/conversational4.json",
+        "social1":"https://monjelmorshedsabbir.github.io/Vocabulary-Admin/Admin/Categories/socialSentences1.json"
     }
 }
