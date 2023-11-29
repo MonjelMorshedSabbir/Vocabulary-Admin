@@ -1,0 +1,16 @@
+{
+    "Admin":{
+        "isAppActive":true,
+        "minVersion":1
+    },
+    "API":{
+        "short1":"",
+        "short2":"",
+        "explained1":"",
+        "conversational1":"",
+        "conversational2":"",
+        "conversational3":"",
+        "conversational4":"",
+        "Social1":""
+    }
+}

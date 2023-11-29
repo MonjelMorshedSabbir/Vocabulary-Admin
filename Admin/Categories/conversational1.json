@@ -1,0 +1,1010 @@
+[
+    {
+        "en": "tell me which you want .",
+        "bn": "তোর কোনটা দরকার আমাকে বল ।"
+    },
+    {
+        "en": "you are younger than me .",
+        "bn": "তুমি আমার থেকে ছোট ।"
+    },
+    {
+        "en": "i am in the mountains .",
+        "bn": "আমি পাহাড়ে আছি ।"
+    },
+    {
+        "en": "you are really embarrassed .",
+        "bn": "তুমি সত্যিই লজ্জিত ।"
+    },
+    {
+        "en": "how old is your mother ?",
+        "bn": "আপনার মায়ের বয়স কত ?"
+    },
+    {
+        "en": "I don't agree with you .",
+        "bn": "আমি তোমার সাথে একমত নই ।"
+    },
+    {
+        "en": "I received your letter .",
+        "bn": "আমি তোর চিঠি পেয়েছি ।"
+    },
+    {
+        "en": "He went to the dentist .",
+        "bn": "সে দাঁতের ডাক্তারের কাছে গিয়েছিলো ।"
+    },
+    {
+        "en": "What are you here for ?",
+        "bn": "তুই এখানে কি জন্য এসেছিস ?"
+    },
+    {
+        "en": "What does your son do ?",
+        "bn": "তোর ছেলে কি করে ?"
+    },
+    {
+        "en": "Can you play the piano ?",
+        "bn": "আপনি পিয়ানো বাজাতে পারিস ?"
+    },
+    {
+        "en": "Do you have any others ?",
+        "bn": "তোর কাছে কি আর কিছু আছে ?"
+    },
+    {
+        "en": "She's my older sister .",
+        "bn": "সে আমার বড়ো বোন ।"
+    },
+    {
+        "en": "The experiment failed .",
+        "bn": "গবেষণাটি ব্যর্থ হলো ।"
+    },
+    {
+        "en": "You're not paying attention .",
+        "bn": "তুমি মনোযোগ দিচ্ছো না ।"
+    },
+    {
+        "en": "Tom's hiding something .",
+        "bn": "টম কিছু লুকাচ্ছে ।"
+    },
+    {
+        "en": "Have you ever eaten raw fish ?",
+        "bn": "তুই কখনো কাঁচা মাছ খেয়েছিস ?"
+    },
+    {
+        "en": "Democracy encourages people .",
+        "bn": "গণতন্ত্র মানুষকে অনুপ্রাণিত করে ।"
+    },
+    {
+        "en": "I heard Tom was in trouble .",
+        "bn": "আমি শুনলাম টম ঝামেলায় পরেছিল ।"
+    },
+    {
+        "en": "You're so impatient .",
+        "bn": "তুমি বড্ড অধৈর্য্য ।"
+    },
+    {
+        "en": "Have you ever been to Dhaka ?",
+        "bn": "আপনি কি কখনো ঢাকা গেছেন ?"
+    },
+    {
+        "en": "He is an experienced master .",
+        "bn": "তিনি একজন অভিজ্ঞ শিক্ষক ।"
+    },
+    {
+        "en": "Have you ever ridden a horse ?",
+        "bn": "তুই কখনো ঘোড়ায় চড়েছিস ?"
+    },
+    {
+        "en": "I don't use Twitter anymore .",
+        "bn": "আমি আর টুইটার ব্যবহার করি না ।"
+    },
+    {
+        "en": "Some people started laughing .",
+        "bn": "অনেকে হাসতে শুরু করলো ।"
+    },
+    {
+        "en": "Only one language is never enough .",
+        "bn": "মাত্র একটি ভাষা যথেষ্ট নয় ।"
+    },
+    {
+        "en": "That's because you're a girl .",
+        "bn": "তার কারণ আপনি একজন মেয়ে ।"
+    },
+    {
+        "en": "He is a very important person .",
+        "bn": "উনি একজন অতি গুরুত্বপূর্ণ ব্যক্তি ।"
+    },
+    {
+        "en": "When does the next car leave ?",
+        "bn": "পরের গাড়িটি কখন ছাড়বে ?"
+    },
+    {
+        "en": "When does the next train leave ?",
+        "bn": "পরের ট্রেনটি কখন ছাড়বে ?"
+    },
+    {
+        "en": "How many days will you stay ?",
+        "bn": "আপনারা কত দিন থাকবেন ?"
+    },
+    {
+        "en": "I am looking for a good train .",
+        "bn": "আমি একটা ভাল ট্রেন খুঁজছি ।"
+    },
+    {
+        "en": "I don't go to work on Fridays .",
+        "bn": "আমি শুক্রবার করে কাজে যাই না ।"
+    },
+    {
+        "en": "I'm very good at swimming .",
+        "bn": "আমি সাঁতারে খুব ভালো ।"
+    },
+    {
+        "en": "He always keeps his promises .",
+        "bn": "সে সবসময় তার কথা রাখে ।"
+    },
+    {
+        "en": "He certainly is good-looking .",
+        "bn": "সে সত্যিই খুব সুদর্শন ।"
+    },
+    {
+        "en": "You can eat anything you want .",
+        "bn": "তোর যেটা ইচ্ছে হয় সেটা খেতে পারিস ।"
+    },
+    {
+        "en": "I am going to America .",
+        "bn": "আমি আমেরিকা যাচ্ছি ।"
+    },
+    {
+        "en": "Is this the way to home ?",
+        "bn": "এটা কি বাড়িতে যাওয়ার রাস্তা ?"
+    },
+    {
+        "en": "Please wait till I comes back .",
+        "bn": "আমি আসা পর্যন্ত দয়া করে অপেক্ষা করুন ।"
+    },
+    {
+        "en": "Will you look after his baggage ?",
+        "bn": "তার মালপত্রটা একটু দেখবেন ?"
+    },
+    {
+        "en": "I hardly ever keeps his word .",
+        "bn": "আমি খুব কমই ওনার কথা রাখেন ।"
+    },
+    {
+        "en": "I is a bit shorter than Mary .",
+        "bn": "আমি মেরির থেকে একটু বেঁটে ।"
+    },
+    {
+        "en": "I left without saying a word .",
+        "bn": "আমি কোনো কথা না বলে চলে গেল ।"
+    },
+    {
+        "en": "He likes chocolate cake a lot .",
+        "bn": "সে চকলেট কেক খুব পছন্দ করে ।"
+    },
+    {
+        "en": "You tried to keep from smiling .",
+        "bn": "তুমি না হাসার চেষ্টা করছিল ।"
+    },
+    {
+        "en": "Your hobby is listening to music .",
+        "bn": "গান শোনা তোমার নেশা ।"
+    },
+    {
+        "en": "I can understand your language .",
+        "bn": "আমি তোমার ভাষা বুঝি ।"
+    },
+    {
+        "en": "You tried to keep your chin up .",
+        "bn": "তুমি তোমার মুখ উঁচু রাখার চেষ্টা করেছিল ।"
+    },
+    {
+        "en": "Your father is out .",
+        "bn": "তোমার বাবা বাইরে ।"
+    },
+    {
+        "en": "Your father smokes .",
+        "bn": "তোমার বাবা ধূমপান করে ।"
+    },
+    {
+        "en": "Your glass is full .",
+        "bn": "তোমার গ্লাসটি ভরতি ।"
+    },
+    {
+        "en": "He can beat you .",
+        "bn": "সে তোমাকে মারতে পারে ।"
+    },
+    {
+        "en": "You don't get it .",
+        "bn": "তুমি বুঝতে পারছ না ।"
+    },
+    {
+        "en": "He doesn't get it .",
+        "bn": "সে ঠিক বুঝতে পারছে না ।"
+    },
+    {
+        "en": "He has a cough .",
+        "bn": "তার কাশি হয়েছে ।"
+    },
+    {
+        "en": "He likes noodles .",
+        "bn": "সে নুডলস পছন্দ করে ।"
+    },
+    {
+        "en": "You prefer black .",
+        "bn": "তুমি কালো পছন্দ করি ।"
+    },
+    {
+        "en": "You said nothing .",
+        "bn": "তুমি কিছুই বলনি ।"
+    },
+    {
+        "en": "He studies abroad .",
+        "bn": "উনি বিদেশে পড়াশুনা করি ।"
+    },
+    {
+        "en": "He was coughing .",
+        "bn": "তিনি কাশছিলেন ।"
+    },
+    {
+        "en": "He was dreaming .",
+        "bn": "তিনি স্বপ্ন দেখছিলেন ।"
+    },
+    {
+        "en": "You wasn't alone .",
+        "bn": "তুমি একলা ছিলে না ।"
+    },
+    {
+        "en": "You went on foot .",
+        "bn": "তুমি পায়ে হেঁটে গেছিলে ।"
+    },
+    {
+        "en": "He is outside .",
+        "bn": "সে বাইরে আছে ।"
+    },
+    {
+        "en": "Are those yours ?",
+        "bn": "ওইগুলো কি তোর ?"
+    },
+    {
+        "en": "Can you try it on ?",
+        "bn": "তুমি কি এটা পরে দেখতে পার ?"
+    },
+    {
+        "en": "Can you work here ?",
+        "bn": "তুমি কি এখানে কাজ করতে পার ?"
+    },
+    {
+        "en": "Give me a kiss .",
+        "bn": "আমাকে একটা চুমু দাও ।"
+    },
+    {
+        "en": "You couldn't walk .",
+        "bn": "তুমি হাঁটতে পারোনি ।"
+    },
+    {
+        "en": "You deserved that .",
+        "bn": "তোমার সেটাই প্রাপ্য ছিলো ।"
+    },
+    {
+        "en": "You didn't forget .",
+        "bn": "তুমি ভুলোনি ।"
+    },
+    {
+        "en": "You didn't listen .",
+        "bn": "তুমি শুননি ।"
+    },
+    {
+        "en": "You didn't notice .",
+        "bn": "তুমি লক্ষ্য করনি ।"
+    },
+    {
+        "en": "You didn't notice .",
+        "bn": "তুমি খেয়াল করনি ।"
+    },
+    {
+        "en": "He is a doctor .",
+        "bn": "ইনি একজন ডাক্তার ।"
+    },
+    {
+        "en": "There's no salt .",
+        "bn": "এখানে নুন নেই ।"
+    },
+    {
+        "en": "This is my wife .",
+        "bn": "এই আমার স্ত্রী ।"
+    },
+    {
+        "en": "She has seen it .",
+        "bn": "সে ওটা দেখেছে ।"
+    },
+    {
+        "en": "He walks .",
+        "bn": "উনি হাঁটেন ।"
+    },
+    {
+        "en": "He walks .",
+        "bn": "সে হাঁটে ।"
+    },
+    {
+        "en": "He walks .",
+        "bn": "ও হাঁটে ।"
+    },
+    {
+        "en": "They're different .",
+        "bn": "তারা অন্যরকম ।"
+    },
+    {
+        "en": "They're here, too .",
+        "bn": "তারাও এখানে আছে ।"
+    },
+    {
+        "en": "They're screaming .",
+        "bn": "তারা চিৎকার করছে ।"
+    },
+    {
+        "en": "He is screaming .",
+        "bn": "সে চেঁচাচ্ছে ।"
+    },
+    {
+        "en": "They've done that .",
+        "bn": "তারা সেটা করেছে ।"
+    },
+    {
+        "en": "They've found Tom .",
+        "bn": "তারা টমকে খুজে পেয়েছে ।"
+    },
+    {
+        "en": "They've seen them .",
+        "bn": "তারা তাদেরকে দেখেছে ।"
+    },
+    {
+        "en": "Do they live here ?",
+        "bn": "তারা কি এখানে থাকো ?"
+    },
+    {
+        "en": "How tall is he ?",
+        "bn": "সে কতটা লম্বা ?"
+    },
+    {
+        "en": "He agree with you .",
+        "bn": "সে আপনার সাথে একমত ।"
+    },
+    {
+        "en": "He agree with you .",
+        "bn": "সে তোর সাথে একমত ।"
+    },
+    {
+        "en": "He is not thirsty .",
+        "bn": "তার তৃষ্ণা পায় নি ।"
+    },
+    {
+        "en": "He is not thirsty .",
+        "bn": "তার তেষ্টা পায়নি ।"
+    },
+    {
+        "en": "He is only joking .",
+        "bn": "সে খালি মজা করছে ।"
+    },
+    {
+        "en": "He knows your name .",
+        "bn": "আমি আপনাদের নাম জানি ।"
+    },
+    {
+        "en": "He was astonished .",
+        "bn": "আমি আশ্চর্যান্বিত হয়ে গেছিলাম ।"
+    },
+    {
+        "en": "He is out .",
+        "bn": "সে বাইরে ।"
+    },
+    {
+        "en": "You smokes .",
+        "bn": "তুমি ধূমপান করে ।"
+    },
+    {
+        "en": "You are out .",
+        "bn": "আপনি বাইরে ।"
+    },
+    {
+        "en": "His stomach hurts .",
+        "bn": "তারপেট ব্যাথা করছে ।"
+    },
+    {
+        "en": "What's his name ?",
+        "bn": "তার নাম কি ?"
+    },
+    {
+        "en": "He is a doctor .",
+        "bn": "সে একজন ডাক্তার ।"
+    },
+    {
+        "en": "He may go there .",
+        "bn": "সে ওখানে যেতে পারে ।"
+    },
+    {
+        "en": "He is screaming .",
+        "bn": "তিনি চিৎকার করছেন ।"
+    },
+    {
+        "en": "He is taller than Mary .",
+        "bn": "সে মেরির থেকে লম্বা ।"
+    },
+    {
+        "en": "He likes reading books .",
+        "bn": "সে বই পড়তে ভালোবাসে ।"
+    },
+    {
+        "en": "They makes great burgers .",
+        "bn": "তারা দারুন বার্গার বানাতে পারে ।"
+    },
+    {
+        "en": "They now lives in Boston .",
+        "bn": "তারা এখন বস্টনে থাকে ।"
+    },
+    {
+        "en": "He reads lots of books .",
+        "bn": "সে প্রচুর বই পড়ে ।"
+    },
+    {
+        "en": "You resigned in October .",
+        "bn": "তুমি অক্টোবরে পদত্যাগ করেছ ।"
+    },
+    {
+        "en": "He seldom eats at home .",
+        "bn": "সে কমই বাড়িতে খায় ।"
+    },
+    {
+        "en": "You still live at home .",
+        "bn": "তুমি এখনো বাড়িতেই থাকো ।"
+    },
+    {
+        "en": "You used to play guitar .",
+        "bn": "তুমি গীটার বাজাতে ।"
+    },
+    {
+        "en": "He took a lot of pictures .",
+        "bn": "সে অনেক ছবি তুলেছে ।"
+    },
+    {
+        "en": "He was at a movie theater .",
+        "bn": "সে একটা সিনেমা হলে ছিল ।"
+    },
+    {
+        "en": "You will not tolerate this .",
+        "bn": "আপনি এটা বরদাস্ত কররেন না ।"
+    },
+    {
+        "en": "YOu'll stay here until ten .",
+        "bn": "আপনি এখানে দশটা অবধি থাকবেন ।"
+    },
+    {
+        "en": "He is also learning French .",
+        "bn": "সেও ফরাসি শিখছি ।"
+    },
+    {
+        "en": "You're going to take a bath .",
+        "bn": "তুমি স্নান করতে যাবে ।"
+    },
+    {
+        "en": "He is not feeling too well .",
+        "bn": "তার শরীর খুব একটা ভালো লাগছে না ।"
+    },
+    {
+        "en": "They're playing football now .",
+        "bn": "তারা এখন ফুটবল খেলছি ।"
+    },
+    {
+        "en": "You're really happy for Tom .",
+        "bn": "আপনি টমের জন্য খুব খুশি ।"
+    },
+    {
+        "en": "Was the museum open yesterday ?",
+        "bn": "জাদুঘরটা কি গতকাল খোলা ছিলো ?"
+    },
+    {
+        "en": "Is there any mail for him ?",
+        "bn": "আপনার জন্য কোনো ডাক আছে ?"
+    },
+    {
+        "en": "It is unfortunately false .",
+        "bn": "দুর্ভাগ্যবশতভাবে এটা মিথ্যা ।"
+    },
+    {
+        "en": "He was raised in France .",
+        "bn": "উনি ফ্রান্সে বড়ো হয়েছেন ।"
+    },
+    {
+        "en": "He was raised in France .",
+        "bn": "ও ফ্রান্সে বড়ো হয়েছে ।"
+    },
+    {
+        "en": "You have twin daughters .",
+        "bn": "আপনাদের দুটো জমজ মেয়ে আছে ।"
+    },
+    {
+        "en": "This is driving him crazy .",
+        "bn": "এটা তাকে পাগল করে দিচ্ছে ।"
+    },
+    {
+        "en": "She kept his eyes closed .",
+        "bn": "সে তার চোখ বন্ধ রেখেছিল ।"
+    },
+    {
+        "en": "What's his home address ?",
+        "bn": "তার বাড়ির ঠিকানাটা কী ?"
+    },
+    {
+        "en": "Are they eating out tonight ?",
+        "bn": "তারা কি আজ বাইরে খাবো ?"
+    },
+    {
+        "en": "He can eat all you want .",
+        "bn": "তার যত ইচ্ছে তত খেতে পারে ।"
+    },
+    {
+        "en": "I will be ten next April .",
+        "bn": "আমি পরের এপ্রিলে দশ বছরের হবে ।"
+    },
+    {
+        "en": "You're sleeping like a baby .",
+        "bn": "তুমি বাচ্চাদের মত ঘুমাচ্ছ ।"
+    },
+    {
+        "en": "You accepted his invitation .",
+        "bn": "তুমি তার আমন্ত্রণ গ্রহণ করলে ।"
+    },
+    {
+        "en": "He was momentarily blinded .",
+        "bn": "সে ক্ষণিকের জন্য অন্ধ হয়ে গেছিলো ।"
+    },
+    {
+        "en": "You're not very good at this .",
+        "bn": "তুমি এতে খুব একটা ভালো নও ।"
+    },
+    {
+        "en": "You live in a small village .",
+        "bn": "আপনি একট ছোট গ্রামে থাকেন ।"
+    },
+    {
+        "en": "You really don't want to go .",
+        "bn": "b মনে হয় আপনারা দুজনেই টমকে চেনেন ।"
+    },
+    {
+        "en": "I had a bitter experience .",
+        "bn": "আমার এক তিক্ত অভিজ্ঞতা হয়েছিলো ।"
+    },
+    {
+        "en": "I lose my temper easily .",
+        "bn": "আমি সহজেই আমার মাথা গরম করে ফেলি ।"
+    },
+    {
+        "en": "He can't attend the meeting .",
+        "bn": "সে সভাতে উপস্থিত থাকতে পারবে না ।"
+    },
+    {
+        "en": "He doesn't know what you mean .",
+        "bn": "সে জানেনা আপনি কি বোঝাতে চাইছেন ।"
+    },
+    {
+        "en": "He is happy to see you again .",
+        "bn": "তোমাকে আবার দেখে সে খুশি হয়েছে ।"
+    },
+    {
+        "en": "The library is to the right .",
+        "bn": "লাইব্রেরিটা ডানদিকে ।"
+    },
+    {
+        "en": "The rain continued all evening .",
+        "bn": "বৃষ্টিটা সারাবিকেল ধরে চলেছিল ।"
+    },
+    {
+        "en": "He is always complaining .",
+        "bn": "সে সবসময় অভিযোগ করে ।"
+    },
+    {
+        "en": "He must go to the dentist .",
+        "bn": "তার দাঁতের ডাক্তারের কাছে যাওয়া উচিৎ ।"
+    },
+    {
+        "en": "He asked Tom where he'd gone .",
+        "bn": "সে টমকে জিজ্ঞাসা করল যে সে কোথায় গেছিলো ।"
+    },
+    {
+        "en": "He believes Tom is doing well .",
+        "bn": "তার মনে হয় টম ভালোই আছে ।"
+    },
+    {
+        "en": "Let's find out where he is .",
+        "bn": "সে কোথায় আছে খোঁজা যাক ।"
+    },
+    {
+        "en": "Let's see what he is up to .",
+        "bn": "দেখা যাক সে কি করছে ।"
+    },
+    {
+        "en": "I didn't want that to happen .",
+        "bn": "আমি চাইনি ওটা ঘটুক ।"
+    },
+    {
+        "en": "I don't feel like eating then .",
+        "bn": "আমার তখন খেতে ইচ্ছে করছে না ।"
+    },
+    {
+        "en": "I don't like to drink tea .",
+        "bn": "আমার চা খেতে ভালো লাগে না ।"
+    },
+    {
+        "en": "I don't want to be like this .",
+        "bn": "আমি এইরকম হতে চাই না ।"
+    },
+    {
+        "en": "I found the magazine interesting .",
+        "bn": "আমার ম্যাগাজিনটা আকর্ষণীয় বলে মনে হয়েছিল ।"
+    },
+    {
+        "en": "I have a one-year contract .",
+        "bn": "আমার কাছে এক বছরের চুক্তি আছে ।"
+    },
+    {
+        "en": "I never listen to him anyway .",
+        "bn": "আমি এমনিতেও কখনও তার কথা শুনি না ।"
+    },
+    {
+        "en": "I only speak English with Tom .",
+        "bn": "আমি টমের সঙ্গে খালি ইংরাজি ভাষায় কথা বলি ।"
+    },
+    {
+        "en": "I only speak a little English .",
+        "bn": "আমি খালি একটু ইংরাজি ভাষায় কথা বলি ।"
+    },
+    {
+        "en": "I used to swim in this pond .",
+        "bn": "আমি এই পুকুরে সাঁতার কাটতাম ।"
+    },
+    {
+        "en": "I'd like to book my ticket .",
+        "bn": "আমি আমার টিকিটটি বুক করতে চাই ।"
+    },
+    {
+        "en": "I'd like to change my school .",
+        "bn": "আমি আমার স্কুলটি পালটাতে চাই ।"
+    },
+    {
+        "en": "I'll certainly go tomorrow .",
+        "bn": "আমি নিশ্চই আগামীকাল যাবো ।"
+    },
+    {
+        "en": "I'm catching the 11:00 bus .",
+        "bn": "আমি ১১ঃ০০টার বাসটা ধরতে যাচ্ছি ।"
+    },
+    {
+        "en": "I'm proud of how I acted .",
+        "bn": "আমি যে ভাবে ব্যবহার করেছি তাতে আমি গর্বিত ।"
+    },
+    {
+        "en": "I'm sorry I kept him waiting .",
+        "bn": "আমাকে ক্ষমা করবেন আমি তাহাকে অপেক্ষা করিয়ে রেখেছিলাম ।"
+    },
+    {
+        "en": "I'm sorry I kept him waiting .",
+        "bn": "আমাকে ক্ষমা করবে আমি তাকে অপেক্ষা করিয়ে রেখেছিলাম ।"
+    },
+    {
+        "en": "I'm sorry, I can stay long .",
+        "bn": "আমায় ক্ষমা করবেন, আমি বেশিক্ষণ থাকতে পারবো ।"
+    },
+    {
+        "en": "I'm starting to learn English .",
+        "bn": "আমি ইংরাজি শেখা শুরু করছি ।"
+    },
+    {
+        "en": "It was dark under the table .",
+        "bn": "টেবিলের নিচে অন্ধকার ছিল ।"
+    },
+    {
+        "en": "We get together once a year .",
+        "bn": "আমরা বছরে একবার করে একত্রিত হই ।"
+    },
+    {
+        "en": "We have to move very slowly .",
+        "bn": "আমাদেরকে খুব ধীরে চলতে হবে ।"
+    },
+    {
+        "en": "We traveled in North America .",
+        "bn": "আমরা উত্তর আমেরিকাতে ঘুরলাম ।"
+    },
+    {
+        "en": "What time does the train leave ?",
+        "bn": "ট্রেনটা কটার সময় ছাড়ে ?"
+    },
+    {
+        "en": "What's this called in English ?",
+        "bn": "ইংরেজিতে এটাকে কী বলে ?"
+    },
+    {
+        "en": "He is looking for a good hotel .",
+        "bn": "সে একটা ভাল হোটেল খুঁজছে ।"
+    },
+    {
+        "en": "I couldn't move my left foot .",
+        "bn": "আমি আমার নাম পাটা নাড়াতে পারিনি ।"
+    },
+    {
+        "en": "I found that article interesting .",
+        "bn": "আমার ওই আর্টিকেলটা আকর্ষণীয় বলে মনে হয়েছিল ।"
+    },
+    {
+        "en": "I got on the bus for London .",
+        "bn": "আমি লন্ডনে যাওয়ার বাসে উঠেছিলাম ।"
+    },
+    {
+        "en": "I haven't done this for months .",
+        "bn": "আমি এটা অনেক মাস ধরে করিনি ।"
+    },
+    {
+        "en": "I just don't know what to say .",
+        "bn": "আমি জানিনা ঠিক কি বলবো ।"
+    },
+    {
+        "en": "I learned to live without you .",
+        "bn": "আমি তোমাকে ছাড়া বাঁচতে শিখেছি ।"
+    },
+    {
+        "en": "He like reading mystery novels .",
+        "bn": "তার রহস্য উপন্যাস পড়তে ভালো লাগে ।"
+    },
+    {
+        "en": "She want to be more independent .",
+        "bn": "সে আরও স্বাধীন হতে চায় ।"
+    },
+    {
+        "en": "I want to eat Chinese food .",
+        "bn": "আমি চাইনিজ খাবার খেতে চাই ।"
+    },
+    {
+        "en": "What time does the bus leave ?",
+        "bn": "বাসটা কটার সময় ছাড়ে ?"
+    },
+    {
+        "en": "When do you usually go to school ?",
+        "bn": "আপনি সাধারণত কটার সময় স্কুলে যান ?"
+    },
+    {
+        "en": "When do you usually go to school ?",
+        "bn": "তুমি সাধারণত কটার সময় স্কুলে যাও ?"
+    },
+    {
+        "en": "Where are you going on Sunday ?",
+        "bn": "রবিবার আপনি কোথায় যাচ্ছেন ?"
+    },
+    {
+        "en": "Where are you going on Sunday ?",
+        "bn": "রবিবার তুমি কোথায় যাচ্ছো ?"
+    },
+    {
+        "en": "Where can I buy that book ?",
+        "bn": "আমি ওই বইটা কোথা থেকে কিনতে পারব ?"
+    },
+    {
+        "en": "Why aren't you coming with them ?",
+        "bn": "তাদের সাথে আসছেন না কেন ?"
+    },
+    {
+        "en": "Why aren't you coming with them ?",
+        "bn": "তাদের সাথে আসছো না কেন ?"
+    },
+    {
+        "en": "Would you like to go outside ?",
+        "bn": "আপনি কি বাইরে যাবেন ?"
+    },
+    {
+        "en": "Would you like to go outside ?",
+        "bn": "আপনারা কি বাইরে যাবেন ?"
+    },
+    {
+        "en": "Would you like to go outside ?",
+        "bn": "তুমি কি বাইরে যাবে ?"
+    },
+    {
+        "en": "Would you like to go outside ?",
+        "bn": "তোমরা কি বাইরে যাবে ?"
+    },
+    {
+        "en": "You can't eat anything you want .",
+        "bn": "আপনার যেটা ইচ্ছে হয় সেটা খেতে পারেন না ।"
+    },
+    {
+        "en": "You can't eat anything you want .",
+        "bn": "তোমার যেটা ইচ্ছে হয় সেটা খেতে পারো না ।"
+    },
+    {
+        "en": "Please show me the red shirt .",
+        "bn": "আমাকে একটু লাল জামাটা দেখাবেন ।"
+    },
+    {
+        "en": "He can't say whatever he wants .",
+        "bn": "ওনার যা ইচ্ছে উনি বলতে পারেন না ।"
+    },
+    {
+        "en": "She can't say whatever she wants .",
+        "bn": "ওর যা ইচ্ছে ও বলতে পারে না ।"
+    },
+    {
+        "en": "She can't say whatever she wants .",
+        "bn": "তার যা ইচ্ছে সে বলতে পারে না ।"
+    },
+    {
+        "en": "She can say whatever she wants .",
+        "bn": "তাঁর যা ইচ্ছে তিনি বলতে পারেন না ।"
+    },
+    {
+        "en": "Someday you'll run like the wind .",
+        "bn": "কোনো একদিন তুমি হাওয়ার মত দৌড়াবে ।"
+    },
+    {
+        "en": "English is her native language .",
+        "bn": "ইংরেজি তাঁর মাতৃভাষা ।"
+    },
+    {
+        "en": "English is her native language .",
+        "bn": "ইংরেজি তার মাতৃভাষা ।"
+    },
+    {
+        "en": "French is her native language .",
+        "bn": "ফরাসি ওনার মাতৃভাষা ।"
+    },
+    {
+        "en": "Don't speak English in the class .",
+        "bn": "ক্লাসে ইংরেজিতে কথা বলবে না ।"
+    },
+    {
+        "en": "French is not my mother tongue .",
+        "bn": "ফরাসি আমার মাতৃভাষা নয় ।"
+    },
+    {
+        "en": "Even I was somewhat impressed .",
+        "bn": "এমনকি আমিও কিছুটা প্রভাবিত হয়েছিল ।"
+    },
+    {
+        "en": "Finish that as soon as possible .",
+        "bn": "যত তাড়াতাড়ি সম্ভব ওটা শেষ করুন ।"
+    },
+    {
+        "en": "Finish that as soon as possible .",
+        "bn": "যত তাড়াতাড়ি সম্ভব ওটা শেষ কর ।"
+    },
+    {
+        "en": "English isn't difficult to learn .",
+        "bn": "ইংরাজি শেখা কঠিন নয় ।"
+    },
+    {
+        "en": "He did not work on Friday night .",
+        "bn": "উনি শুক্রবার রাতে কাজ করেন নি ।"
+    },
+    {
+        "en": "He did not work on Monday night .",
+        "bn": "সে সোমবার রাতে কাজ করে নি ।"
+    },
+    {
+        "en": "How do you write your first name ?",
+        "bn": "আপনার প্রথম নামটি কিভাবে লেখেন ?"
+    },
+    {
+        "en": "You've never told anyone about this .",
+        "bn": "আপনি কোনদিন কাউকে এই ব্যাপারে বলোনি ।"
+    },
+    {
+        "en": "Is there another way to come here ?",
+        "bn": "এখানে আসার আর কোন রাস্তা আছে ?"
+    },
+    {
+        "en": "My mother is always getting angry .",
+        "bn": "আমার মা সবসময় রেগে যান ।"
+    },
+    {
+        "en": "My mother is very good at fishing .",
+        "bn": "আমার মা মাছ ধরাতে খুব ভাল ।"
+    },
+    {
+        "en": "My father can play golf very well .",
+        "bn": "আমার বাবা খুব ভাল গলফ খেলতে পারে ।"
+    },
+    {
+        "en": "My father knows how to make cakes .",
+        "bn": "আমার বাবা জানে কিভাবে কেক বানাতে হয় ।"
+    },
+    {
+        "en": "His name was omitted from the list .",
+        "bn": "তালিকাটি থেকে তার নামটা বাদ গেছে ।"
+    },
+    {
+        "en": "His neighbor's name is Tom Jackson .",
+        "bn": "তার প্রতিবেশীর নাম টম জ্যাকসন ।"
+    },
+    {
+        "en": "She doesn't want to talk about that .",
+        "bn": "সে ওই বিষয় কথা বলতে চান না ।"
+    },
+    {
+        "en": "The plane arrived exactly at ten .",
+        "bn": "বিমানটি ঠিক দশটার সময় পৌছাল ।"
+    },
+    {
+        "en": "The police warned them to keep back .",
+        "bn": "পুলিশ তাদের পেছনে যেতে আদেশ দিল ।"
+    },
+    {
+        "en": "I'm going to study English next year .",
+        "bn": "আমি পরের বছর ইংরেজি শিখবো ।"
+    },
+    {
+        "en": "Bread are usually made from wheat .",
+        "bn": "রুটি সাধারণত ময়দা দিয়ে তৈরি হয় ।"
+    },
+    {
+        "en": "Patience is essential for a student .",
+        "bn": "একজন ছাত্রের জন্য ধৈর্য্য অত্যাবশ্যক ।"
+    },
+    {
+        "en": "The audience was mostly teacher .",
+        "bn": "দর্শকদের মধ্যে বেশিরভাগই শিক্ষক ছিলেন ।"
+    },
+    {
+        "en": "The soldiers surrounded the town .",
+        "bn": "সৈন্যরা শহরটাকে ঘিরে ফেললো ।"
+    },
+    {
+        "en": "Tom Jackson has written four books .",
+        "bn": "টম জ্যাকসন চারটে বই লিখেছেন ।"
+    },
+    {
+        "en": "He almost forgot about the meeting .",
+        "bn": "সে মিটিঙ্গের কথাটা প্রায় ভুলেই গেছিলো ।"
+    },
+    {
+        "en": "He certainly plays the guitar well .",
+        "bn": "সে গীটারটা সত্যিই খুব ভালো বাজায় ।"
+    },
+    {
+        "en": "Tom has sang more than 300 songs .",
+        "bn": "টম ৩০০র ও বেশি গান গেয়েছে ।"
+    },
+    {
+        "en": "Tom reluctantly went to the doctor .",
+        "bn": "অনিচ্ছা সত্বেও টম ডাক্তারের কাছে গেলো ।"
+    },
+    {
+        "en": "She seems to be listening carefully .",
+        "bn": "সে খুব মন দিয়ে শুনছে বলে মনে হচ্ছে ।"
+    },
+    {
+        "en": "Turn left at the next intersection .",
+        "bn": "পরের মোড়টায় বামদিকে বেঁকে যাবেন ।"
+    },
+    {
+        "en": "I can't sleep because of the noise .",
+        "bn": "আওয়াজের জন্য আমি ঘুমাতে পারছি না ।"
+    },
+    {
+        "en": "You can't sleep because of the noise .",
+        "bn": "শব্দের জন্য আমি ঘুমাতে পারছি না ।"
+    },
+    {
+        "en": "What time does the dining room close ?",
+        "bn": "খাবার ঘরটা কখন বন্ধ হয় ?"
+    },
+    {
+        "en": "What time does the next bus leave ?",
+        "bn": "পরের বাসটা কটার সময় ছাড়ে ?"
+    },
+    {
+        "en": "When did you begin studying French ?",
+        "bn": "তুমি ফরাসি পড়া কবে থেকে শুরু করলে ?"
+    },
+    {
+        "en": "When did you begin studying French ?",
+        "bn": "আপনি ফরাসি পড়া কবে থেকে শুরু করলেন ?"
+    },
+    {
+        "en": "Where is the entrance to the school ?",
+        "bn": "স্কুলে ঢোকার রাস্তাটি কোথায় ?"
+    }
+]
